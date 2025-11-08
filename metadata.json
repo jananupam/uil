@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Copy of Copy of IT Service Request Dashboard",
+  "description": "A web application to submit and manage IT service requests. Users can fill out a detailed form to report issues, and administrators can view all submitted tickets on a centralized dashboard.",
+  "requestFramePermissions": []
+}
